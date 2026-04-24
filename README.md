@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the capstone of the IBM Data Science Professional Certificate, focused on analyzing SpaceX Falcon 9 launch data to predict first-stage landing success.
+This project is the IBM Applied Data Science Capstone project, focused on analyzing SpaceX Falcon 9 launch data to predict first-stage landing success.
 
 It implements a complete end-to-end data science pipeline, including data collection, wrangling, exploratory analysis, machine learning modeling, and interactive visualization.
 
